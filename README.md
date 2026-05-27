@@ -27,15 +27,27 @@ Production-ready Grav theme generation.
 ### Plugin Builder
 Professional Grav plugin scaffolding.
 
+### Grav Debugger
+Advanced Grav CMS troubleshooting and debugging.
+
+### SEO Optimizer
+SEO, performance and metadata optimization for Grav websites.
+
 ---
 
 ## Included Snippets
 
 ### Twig
-Reusable frontend components.
+Reusable frontend Twig components.
 
 ### YAML
 Blueprint examples for Grav Admin.
+
+### PHP
+Plugin boilerplates and Grav integrations.
+
+### SCSS
+Modern responsive UI styling examples.
 
 ---
 
