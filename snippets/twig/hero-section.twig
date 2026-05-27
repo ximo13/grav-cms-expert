@@ -1,0 +1,23 @@
+<section class="hero">
+    <div class="container">
+        <div class="hero-content">
+            <span class="hero-subtitle">
+                {{ page.header.subtitle }}
+            </span>
+
+            <h1 class="hero-title">
+                {{ page.title }}
+            </h1>
+
+            <div class="hero-text">
+                {{ page.content }}
+            </div>
+
+            {% if page.header.button_url %}
+                <a href="{{ page.header.button_url }}" class="hero-button">
+                    {{ page.header.button_text }}
+                </a>
+            {% endif %}
+        </div>
+    </div>
+</section>
