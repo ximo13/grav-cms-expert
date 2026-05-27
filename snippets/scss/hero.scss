@@ -1,0 +1,39 @@
+.hero {
+    position: relative;
+    padding: 8rem 0;
+    overflow: hidden;
+
+    .hero-content {
+        max-width: 700px;
+    }
+
+    .hero-subtitle {
+        display: inline-block;
+        margin-bottom: 1rem;
+        font-size: 0.875rem;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+    }
+
+    .hero-title {
+        font-size: clamp(3rem, 8vw, 6rem);
+        line-height: 1;
+        margin-bottom: 2rem;
+    }
+
+    .hero-text {
+        font-size: 1.125rem;
+        line-height: 1.7;
+        margin-bottom: 2rem;
+    }
+
+    .hero-button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 1rem 2rem;
+        border-radius: 999px;
+        text-decoration: none;
+        transition: all 0.3s ease;
+    }
+}
