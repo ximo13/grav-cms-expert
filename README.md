@@ -1,5 +1,10 @@
 # Grav CMS Expert
 
+![Grav CMS](https://img.shields.io/badge/Grav-CMS-blue)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![AI Powered](https://img.shields.io/badge/AI-Powered-purple)
+
 AI agent specialized in Grav CMS development.
 
 ## Features
