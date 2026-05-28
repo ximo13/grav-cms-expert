@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![AI Powered](https://img.shields.io/badge/AI-Powered-purple)
 
-AI agent specialized in Grav CMS development.
+Open-source AI assistant specialized in Grav CMS development.
 
 ## Features
 
